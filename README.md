@@ -16,7 +16,7 @@
 
 
 
-### Tech Stack
+### 🛠️ Tech Stack
 [![Languages](https://skillicons.dev/icons?i=py,postgres,js,html,css,git,md)](https://skillicons.dev)
 <!--
 [![Packages](https://skillicons.dev/icons?i=regex,selenium,anaconda)](https://skillicons.dev)
