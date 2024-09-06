@@ -4,9 +4,9 @@
 ![<kieran036>'s Stats](https://github-readme-stats.vercel.app/api?username=kieran036&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kieran036&count_private=true&theme=tokyonight&showicons=true)]()
 -->
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kieran036&langs_count=5&theme=tokyonight)]()
+[![My GitHub Top Language Stats for Public Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=kieran036&langs_count=5&theme=tokyonight)]()
 
-
+![My GitHub Top Language Stats for All Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=kieran036&hide=ruby,java,shell&langs_count=6&layout=compact&theme=tokyonight&number_format=short)
 
 ### 🚀 About Me
 
