@@ -12,7 +12,7 @@
 
 - 🔭 I'm an experienced data & analytics professional working in industry.
 - 📚 Current interests lie in marketing analytics, data engineering, and web development.
-- 📝 My GitHub hosts shareable past work, my upskilling journey (formal and self-led) and personal projects detailed in each repository's README file.
+- 📝 My GitHub hosts shareable past work, my upskilling journey (formal and self-led) and personal projects, each repository has a README file, outlining further information.
 
 
 
