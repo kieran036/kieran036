@@ -11,7 +11,7 @@
 #### 🚀 About Me
 
 - 🔭 I'm an experienced data & analytics professional working in industry.
-- 📚 Current interests lie in marketing analytics, data engineering, and web development.
+- 📚 Current interests lie in data analytics and data engineering.
 - 📝 My GitHub hosts shareable past work, my upskilling journey (formal and self-led) and personal projects, each repository has a README file, outlining further information.
 
 
@@ -25,9 +25,9 @@
 
 #### 🌱 Currently Exploring
 
-- Web development, data science, and natural language processing through Digital Accelerator Zone course.
-- Simple web development using HTML with CSS styling and JS functionality.
-- Theoretical data engineering topics.
+- Theoretical and applied data engineering topics.
+- Simple web development using HTML with CSS styling and JS functionality (on hold).
+
 
 
 
